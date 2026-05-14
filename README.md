@@ -1,1 +1,1 @@
-# network_log_ai_assistant
+Network Log AI Assistant
