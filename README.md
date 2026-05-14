@@ -31,7 +31,7 @@ Network Log AI Assistant is an AI-powered log analysis system built with Retriev
   - requirements.txt
   - README.md
  
-  ## 🛠️ Architecture
+ ## 🛠️ Architecture
   - CSV Log File
   - Data Preprocessing
   - Document Creation
@@ -42,9 +42,22 @@ Network Log AI Assistant is an AI-powered log analysis system built with Retriev
   - LLM Response
   - Final Answer
  
-  ## 🖥️ How to Run the Program
-  1. Clone repositori
+## 🖥️ How to Run the Program
+1. Clone repositori
 ```bash
-git clone https://github.com/arvio1378/Apple-QA-RAG.git
+git clone https://github.com/arvio1378/network_log_ai_assistant.git
 cd NETWORK LOG AI ASSISTANT
 ```
+2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the program
+```bash
+streamlit run src/app.py
+```
+
+## 📊 Dataset
+Example CSV structure :
+| timestamp    | device      | interface | event | severity | ip | message |
+|-------------|-------------|-------------|-------------||-------------|-------------|-------------|
