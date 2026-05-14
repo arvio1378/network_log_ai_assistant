@@ -59,5 +59,7 @@ streamlit run src/app.py
 
 ## 📊 Dataset
 Example CSV structure :
-| timestamp    | device      | interface | event | severity | ip | message |
-|-------------|-------------|-------------|-------------||-------------|-------------|-------------|
+| timestamp    | device      | interface | event     | severity | ip          | message          |
+|--------------|-------------|-----------|-----------|----------|-------------|------------------|
+| 2026-05-06 22:11:52	| router1 | wlan0 | packet_loss | WARNING | 157.208.200.158 | High packet loss detected on router1 (17%) |
+
