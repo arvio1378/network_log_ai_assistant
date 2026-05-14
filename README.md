@@ -83,6 +83,7 @@ Can contribute to anyone. Can help with :
 
 ## 🧑‍💻 About Me
 I'm currently studying and building a career in AI/ML. This project is my practice in building a simple Python application. I want to further develop my skills in this field through existing projects.
+
 📫 Connect with me on :
 - Linkedin : https://www.linkedin.com/in/arvio-abe-suhendar/
 - Github : https://github.com/arvio1378
