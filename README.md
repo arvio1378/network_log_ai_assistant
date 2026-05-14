@@ -62,4 +62,6 @@ Example CSV structure :
 | timestamp    | device      | interface | event     | severity | ip          | message          |
 |--------------|-------------|-----------|-----------|----------|-------------|------------------|
 | 2026-05-06 22:11:52	| router1 | wlan0 | packet_loss | WARNING | 157.208.200.158 | High packet loss detected on router1 (17%) |
+| 2026-05-06 22:11:33	| router2	 | eth2 | normal_traffic | INFO | 91.242.8.223	 | router2 normal traffic flow stable |
+| 2026-05-06 22:16:23	 | switch2 | wlan0 | cpu_spike	| WARNING	| 207.58.9.129	| switch2 CPU usage at 95% |
 
